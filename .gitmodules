@@ -1,0 +1,4 @@
+[submodule "projects/test-experiment"]
+	path = projects/test-experiment
+	url = ./projects/test-experiment
+	datalad-id = 3ad7d911-f852-48e2-bc4c-b711f7ec8725
