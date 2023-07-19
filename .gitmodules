@@ -6,12 +6,6 @@
 [submodule "projects/semt-encoding"]
 	path = projects/semt-encoding
 	url = https://github.com/emmetaobrien/semt-encoding
-[submodule "projects/probabilistic-reasoning-task"]
-	path = projects/probabilistic-reasoning-task
-	url = https://github.com/emmetaobrien/probabilistic-reasoning-task
-[submodule "projects/sternberg-working-memory-task"]
-	path = projects/sternberg-working-memory-task
-	url = https://github.com/emmetaobrien/sternberg-working-memory-task
 [submodule "projects/BADE-evidence-integration"]
 	path = projects/BADE-evidence-integration
 	url = https://github.com/emmetaobrien/BADE-evidence-integration
