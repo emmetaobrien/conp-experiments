@@ -13,3 +13,9 @@
 	path = projects/sternberg-working-memory-task
 	url = https://github.com/CONP-PCNO/sternberg-working-memory-task
 	datalad-id = 56f1f26c-1745-47f2-9d6c-ec40e610cee7
+[submodule "projects/conp-dataset-Relational_and_Item-Specific_Encoding"]
+	path = projects/conp-dataset-Relational_and_Item-Specific_Encoding
+	url = https://github.com/conp-bot/conp-dataset-Relational_and_Item-Specific_Encoding.git
+[submodule "projects/conp-dataset-Relational-and-Item-Specific-Encoding-RISE-"]
+	path = projects/conp-dataset-Relational-and-Item-Specific-Encoding-RISE-
+	url = https://github.com/conp-bot/conp-dataset-Relational-and-Item-Specific-Encoding-RISE-.git
