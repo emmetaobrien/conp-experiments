@@ -1,8 +1,3 @@
-[submodule "projects/test-experiment"]
-	path = projects/test-experiment
-	url = https://github.com/tkkuehn/test-experiment.git
-        datalad-id = 3ad7d911-f852-48e2-bc4c-b711f7ec8725
-        datalad-url = https://github.com/tkkuehn/test-experiment.git
 [submodule "projects/semt-encoding"]
 	path = projects/semt-encoding
 	url = https://github.com/emmetaobrien/semt-encoding
@@ -15,3 +10,6 @@
 [submodule "projects/probabilistic-reasoning-task"]
 	path = projects/probabilistic-reasoning-task
 	url = https://github.com/emmetaobrien/probabilistic-reasoning-task
+[submodule "projects/Relational-and-Item-Specific-Encoding-RISE"]
+	path = projects/Relational-and-Item-Specific-Encoding-RISE
+	url = https://github.com/carona898/Relational-and-Item-Specific-Encoding-RISE
