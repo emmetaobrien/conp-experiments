@@ -1,6 +1,3 @@
-[submodule "projects/conp-dataset-Relational_and_Item-Specific_Encoding"]
-	path = projects/conp-dataset-Relational_and_Item-Specific_Encoding
-	url = https://github.com/conp-bot/conp-dataset-Relational_and_Item-Specific_Encoding
 [submodule "projects/semt-encoding"]
 	path = projects/semt-encoding
 	url = https://github.com/CONP-PCNO/semt-encoding
