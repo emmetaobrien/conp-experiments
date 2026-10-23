@@ -1,3 +1,18 @@
 [submodule "projects/conp-dataset-Relational_and_Item-Specific_Encoding"]
 	path = projects/conp-dataset-Relational_and_Item-Specific_Encoding
 	url = https://github.com/conp-bot/conp-dataset-Relational_and_Item-Specific_Encoding
+[submodule "projects/semt-encoding"]
+	path = projects/semt-encoding
+	url = https://github.com/CONP-PCNO/semt-encoding
+[submodule "projects/BADE-evidence-integration"]
+	path = projects/BADE-evidence-integration
+	url = https://github.com/CONP-PCNO/BADE-evidence-integration
+	datalad-id = 4f2adc1e-3806-45f0-aa9d-b45ad85982b8
+[submodule "projects/probabilistic-reasoning-task"]
+	path = projects/probabilistic-reasoning-task
+	url = https://github.com/CONP-PCNO/probabilistic-reasoning-task
+	datalad-id = 9d745c83-b3d4-43b7-8a61-38da7cf7f63c
+[submodule "projects/sternberg-working-memory-task"]
+	path = projects/sternberg-working-memory-task
+	url = https://github.com/CONP-PCNO/sternberg-working-memory-task
+	datalad-id = 56f1f26c-1745-47f2-9d6c-ec40e610cee7
